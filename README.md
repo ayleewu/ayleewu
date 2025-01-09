@@ -7,11 +7,8 @@
 
 Some of my favorite projects include using Max MSP to create a personal live VJing setup (DJing but with video installations). I was able to perform at CCRMA at Stanford using a keyboard synced to various programs that distorted and altered video, sound, and the live camera. 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<img width="1007" alt="Screenshot 2025-01-08 at 5 04 33 PM" src="https://github.com/user-attachments/assets/8139b1c2-d841-4f35-9856-717e3504551b" />
+
 
 <!---
 ayleewu/ayleewu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
