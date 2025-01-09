@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aylee Wu
 - 👀 Welcome to my page where I share all my exciting coding, engineering, and art projects. 
-- 🌱 I’m currently studying CS & EE (dabble in Art Practice) @ Stanford!
+- 🌱 I’m currently an Electrical Engineering Major and CS Secondary Major (Minor in Art Practice) @ Stanford!
 - 💞️ I’m looking to share my projects, look for future work, and get involved with the creative communities.
 - 📫 Contact: ayleewu@stanford.edu
 - ⚡ Fun fact: I love carrying this little 33 Ω resistor on me. It was the first resistor I've ever used in lab, and it was one of the most exciting moments of my life.
