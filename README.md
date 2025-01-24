@@ -11,7 +11,7 @@ Some of my favorite projects include using Max MSP to create a personal live VJi
 
 One of my greatest passions is electrical engineering -- especially developing hardware that is "carbon-efficient" and an effective alternative to semiconducting materials for batteries, transistors, and more. I'm interested in carbon nanotube transistor research (CNFETs). I'm part of Stanford Solar Car Project, a student organization aimed to engineering a race car that is solely dependent on solar energy. I've met some of the smartest and kindest engineers, and we spend late nights working on the car and solving real-world problems. 
 
-Below is a really cool model of our MPPT and a general schematic of the car.
+Below is a really cool model of our MPPT.
 <img width="827" alt="Screenshot 2025-01-08 at 5 13 34 PM" src="https://github.com/user-attachments/assets/2f0f1051-f70f-4460-b970-b85f0b740314" />
 
 <img width="803" alt="Screenshot 2025-01-08 at 5 13 13 PM" src="https://github.com/user-attachments/assets/0b11dae9-d9f6-46a4-940d-668044342172" />
